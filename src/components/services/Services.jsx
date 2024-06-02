@@ -17,6 +17,10 @@ const Services = () => {
                     <ul className='service__list'>
                         <li>
                             <BsCheckLg className='service__list-icon' />
+                            <p>Vulnerability and Penetration testing</p>
+                        </li>
+                        <li>
+                            <BsCheckLg className='service__list-icon' />
                             <p>Computer Networking</p>
                         </li>
                         <li>
@@ -53,6 +57,10 @@ const Services = () => {
                         <h3>Achieve</h3>
                     </div>
                     <ul className='service__list'>
+                        <li>
+                            <BsCheckLg className='service__list-icon' />
+                            <p><b>CEH Certified </b>Certified Ethical Hacking Certificate from EC Council</p>
+                        </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
                             <p><b>Pre Security </b>Course Certificate on TryHackMe</p>

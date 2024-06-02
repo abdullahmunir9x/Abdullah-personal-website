@@ -10,30 +10,16 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Personal Blog Website uses Jekyll (is a static site generator) and is hosted on Github.',
+        title: 'Used Templated form NguyenVu which uses Jekyll (is a static site generator) and is hosted on Github.',
         github: 'https://github.com/NguyenVu1310/NguyenVu1310.github.io',
         demo: 'https://nguyenvu1310.github.io/',
     },
     {
         id: 2,
         image: IMG2,
-        title: 'My Personal Portfolio Website uses React and is deployed on Netlify.',
+        title: 'Used Templated form NguyenVu which use NeguyenVu Portfolio Website uses React and is deployed on Netlify.',
         github: 'https://github.com/NguyenVu1310/netlify-personal-site',
         demo: 'https://nguyenvu-personal-site.netlify.app/',
-    },
-    {
-        id: 3,
-        image: IMG3,
-        title: 'A Todo-List application simple developed based on React and deployed on Netlify.',
-        github: 'https://github.com/NguyenVu1310/todoList-react',
-        demo: 'https://nguyenvu-todo-list.netlify.app/',
-    },
-    {
-        id: 4,
-        image: IMG4,
-        title: 'A graduation project was done by my team. A website scans malicious content in URLs and blocks sites on blacklists.',
-        github: 'https://github.com/NguyenVu1310/threeblock',
-        demo: 'https://3block.systems/',
     },
 ]
 
